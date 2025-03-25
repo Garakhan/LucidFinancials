@@ -1,0 +1,18 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+sqlalchemy==2.0.28
+aiomysql==0.2.0
+pydantic==2.6.4
+pydantic-settings==2.2.1
+python-jose==3.3.0
+greenlet==3.1.1
+pydantic[email]
+PyJWT==2.4.0
+bcrypt==4.1.2
+pytest
+pytest-asyncio
+asgi-lifespan
+httpx[http2]==0.27.0
+fastapi[test]
+# bcrypt==4.0.1
+# passlib[bcrypt]==1.7.4
